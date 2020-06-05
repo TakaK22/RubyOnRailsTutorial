@@ -1,2 +1,2 @@
 # RubyOnRailsTutorial
-Ruby on Rails チュートリアルをやってみる
+[Ruby on Rails チュートリアル](https://railstutorial.jp/)をやってみる
